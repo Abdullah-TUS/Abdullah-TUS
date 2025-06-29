@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋  
+Junior dev exploring ideas, building projects, and growing every day.
 
-<!--
-**Abdullah-TUS/Abdullah-TUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🧪 Side Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎉 **Eventique**  
+  Created to practice backend API design and authentication with technologies I knew well.  
+  An event manager where users can log in, create detailed events, and get a shareable link.  
+  From that link, friends can RSVP and add their info, which then shows to the event creator.
+
+- 🐾 **Mystikitty**  
+  Started as a way to fully explore the JavaScript ecosystem.  
+  Users log in and get a unique shareable link where others can send anonymous messages.  
+  It’s a full-stack project built with React, Node.js, and MongoDB.
+
+## 🛠 Tech Stack
+
+Comfortable with: ASP.NET Core, EF Core, LINQ, HTML, Tailwind, JS (vanilla + React basics), SQL Server  
+Exploring: React (deeper), Node.js, MongoDB, Java, Python, GSAP  
+and more to come.

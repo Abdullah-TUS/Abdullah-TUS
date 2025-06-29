@@ -1,6 +1,12 @@
 ## Hi there 👋  
 Junior dev exploring ideas, building projects, and growing every day.
 
+## ✨ Projects
+
+- 💆 **[L U N É A](https://lunea-sa.com)**  
+  A real-world web platform where users can find and explore nearby salons.  
+  Built to help users discover services, view details, and see who provides them — all based on location.
+  "BETA version"
 
 ## 🧪 Side Projects
 
@@ -13,6 +19,7 @@ Junior dev exploring ideas, building projects, and growing every day.
   Started as a way to fully explore the JavaScript ecosystem.  
   Users log in and get a unique shareable link where others can send anonymous messages.  
   It’s a full-stack project built with React, Node.js, and MongoDB.
+
 
 ## 🛠 Tech Stack
 

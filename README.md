@@ -3,10 +3,16 @@ Junior dev exploring ideas, building projects, and growing every day.
 
 ## ✨ Projects
 
+- 👨‍🎓 **Nazzim (Graduation Project)**  
+  An internal communication system built for a charitable organization.  
+  Designed to transition the workflow from paper-based processes to a fully digital system.  
+  Includes letter management, file handling, and structured internal messaging.
+
 - 💆 **[L U N É A](https://lunea-sa.com)**  
   A real-world web platform where users can find and explore nearby salons.  
-  Built to help users discover services, view details, and see who provides them — all based on location.
+  Built to help users discover services, view details, and see who provides them based on location.  
   "BETA version"
+
 
 ## 🧪 Side Projects
 

@@ -13,6 +13,13 @@ Junior dev exploring ideas, building projects, and growing every day.
   Built to help users discover services, view details, and see who provides them based on location.  
   "BETA version"
 
+- 🚑 **Clinic Management System (Tuwaiq Program)**  
+  A full ASP.NET MVC project with roles: **Admin**, **Receptionist**, and **Doctor**.
+
+  - **Admin:** Can create users and view all patients.  
+  - **Receptionist:** Can create and edit patients, and book appointments.  
+  - **Doctor:** Can view appointments, update their status, and add visit notes.
+
 
 ## 🧪 Side Projects
 
@@ -25,6 +32,8 @@ Junior dev exploring ideas, building projects, and growing every day.
   Started as a way to fully explore the JavaScript ecosystem.  
   Users log in and get a unique shareable link where others can send anonymous messages.  
   It’s a full-stack project built with React, Node.js, and MongoDB.
+
+
 
 
 ## 🛠 Tech Stack

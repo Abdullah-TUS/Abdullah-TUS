@@ -28,7 +28,7 @@ Junior dev exploring ideas, building projects, and growing every day.
   An event manager where users can log in, create detailed events, and get a shareable link.  
   From that link, friends can RSVP and add their info, which then shows to the event creator.
 
-- 🐾 **[Mystikitty](https://mystikitty.nightstars.space)**  
+- 🐾 **Mystikitty**  
   Started as a way to fully explore the JavaScript ecosystem.  
   Users log in and get a unique shareable link where others can send anonymous messages.  
   It’s a full-stack project built with React, Node.js, and MongoDB.
